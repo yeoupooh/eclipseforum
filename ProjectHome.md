@@ -1,0 +1,1 @@
+This projects provides that lots of examples related with Eclipse, SWT, RCP and site resources of EclipseForum.net.
